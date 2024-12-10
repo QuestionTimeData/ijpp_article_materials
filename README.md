@@ -5,9 +5,9 @@ This repository contains the supplementary information and data for the article:
 
 
 
-### File Overview
+# File Overview
 
-## Documentation
+### Documentation
 **ijpp_bbcqt_paper_supplementary_info.pdf**
 * Information on the full data collection process and coding of the core variables.
 
@@ -16,7 +16,7 @@ This repository contains the supplementary information and data for the article:
 
 
 
-## Data
+### Data
 **wd_bbcqt_0119_v01_2024-09-22.csv**
 * Working Data containing all BBC Questime Time Panellist Appearances between 2001-2019.
 
