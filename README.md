@@ -14,6 +14,8 @@ This repository contains the supplementary information and data for the article:
 **commons_report_cracknell_tunnicliffe_2022.pdf**
 * Copy of Commons report on background of UK MPs 1979-2019. Available at: https://commonslibrary.parliament.uk/research-briefings/cbp-7483/
 
+**uk_mps_demographic_data_01-19.csv**
+* Aggregated data for each Parliament (2001, 2005, 2010, 2015, 2017) on the sex, ethnicity, and educational background of MPs.
 
 
 ## Data
@@ -35,9 +37,3 @@ This repository contains the supplementary information and data for the article:
 ## Output
 Copies of all tables and figures included in the paper. 
 
-
-**uk_mps_demographic_data_01-19.csv**
-* Aggregated data for each Parliament (2001, 2005, 2010, 2015, 2017) on the sex, ethnicity, and educational background of MPs.
-
-
-## Figures
