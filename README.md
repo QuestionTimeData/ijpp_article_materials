@@ -26,6 +26,16 @@ This repository contains the supplementary information and data for the article:
 **uk_mps_17-19_brexit.csv**
 * Data on UK MPs in 2017-2019 Parliament, includes coding of Brexit preferences.
 
+
+## Code
+**create_figures_tables.r**
+* R script that creates the figures and tables from the paper based on the supplied data, and saves results in the 'output' folder.
+
+
+## Output
+Copies of all tables and figures included in the paper. 
+
+
 **uk_mps_demographic_data_01-19.csv**
 * Aggregated data for each Parliament (2001, 2005, 2010, 2015, 2017) on the sex, ethnicity, and educational background of MPs.
 
