@@ -1,13 +1,12 @@
 ### File Overview
 
 ## Documentation
-01. ijpp_bbcqt_paper_supplementary_info.pdf
-   
-Information on the full data collection process and coding of the core variables.
+01. ijpp_bbcqt_paper_supplementary_info.pdf  
+   * Information on the full data collection process and coding of the core variables.
 
-3. commons_report_cracknell_tunnicliffe_2022.pdf
-   
-Copy of Commons report on background of UK MPs 1979-2019. Available at: https://commonslibrary.parliament.uk/research-briefings/cbp-7483/
+
+02. commons_report_cracknell_tunnicliffe_2022.pdf
+      * Copy of Commons report on background of UK MPs 1979-2019. Available at: https://commonslibrary.parliament.uk/research-briefings/cbp-7483/
 
 
 
